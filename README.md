@@ -95,8 +95,12 @@
 
 ### 📢 Latest Blog Posts
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+<div align="center">  
+  <a href="https://hadify.medium.com/my-journey-into-tech-how-i-broke-into-ai-development-after-college-93139c979fd5">
+    Read about my journey into AI development
+  </a>  
 </div>
+
+
 
 ---
