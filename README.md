@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hadif Ahmad, and I'm an Artificial Intelligence Researcher and Software Developer from Pakistan.</h2>
+<h2 align="left">Hi 👋! My name is Hadif Ahmad, and I'm an Artificial Intelligence & Software Developer from Pakistan.</h2>
 
 ### 📌 About Me
 🎓 **Education**:  
