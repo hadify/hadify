@@ -84,8 +84,9 @@
 
 ### 🐍 Contribution Graph
 
-<img src="https://raw.githubusercontent.com/hadify/hadify/output/snake.svg" alt="Snake animation" />
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/hadify/hadify/output/snake.svg" alt="Snake animation" />
 ### 🌟 GitHub Profile Views
 
 <div align="center">
